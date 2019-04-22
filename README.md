@@ -3,9 +3,9 @@ Final Project for INFO 6350
 
 Team Member:
 
-  Shuofei Chen,
+- Shuofei Chen,
   
-  Linke Wang
+- Linke Wang
 
 A new Flutter application.
 
