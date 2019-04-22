@@ -69,3 +69,12 @@ build/
 !**/ios/**/default.pbxuser
 !**/ios/**/default.perspectivev3
 !/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
+screenshots_final/微信图片_20190422142726.jpg
+screenshots_final/微信图片_20190422142835.png
+screenshots_final/微信图片_20190422142838.png
+screenshots_final/微信图片_20190422142841.png
+screenshots_final/微信图片_20190422142844.png
+screenshots_final/微信图片_20190422142848.png
+screenshots_final/微信图片_20190422142853.png
+google-services.json
+FlutterFinalProject.zip
